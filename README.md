@@ -1,14 +1,11 @@
 # 3d Portfolio-Webapp
 
-### [Live Site](https://saketkothari.vercel.app/)
 The most impressive websites in the world use 3D graphics and animations to bring their content to life.
-#
-
-<img style="text-align:center" src="https://user-images.githubusercontent.com/81709725/235499310-3ad8da99-2e48-4d0b-985c-f38e5da78bd4.png" />
 
 #
 
 ### Tech Stack
+
 - ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
 - React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
 - TailwindCSS - a popular utility-first CSS styling framework
@@ -35,5 +32,3 @@ In the project directory, you can run:
 ```
 npm run dev
 ```
-
-
