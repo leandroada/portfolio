@@ -25,6 +25,9 @@ import {
   project_4,
   project_5,
   project_6,
+  project_7,
+  project_10,
+  project_11,
 } from "../assets";
 
 export const navLinks = [
@@ -314,6 +317,84 @@ const projects = [
       },
     ],
     image: project_6,
+    source_code_link: "https://github.com/SaketKothari/postman-clone",
+    live_code_link: "https://github.com/SaketKothari/postman-clone",
+  },
+  {
+    name: "NFT platform",
+    description:
+      "The platform has expanded its offerings and now provides a range of NFT-centric products such as unique collectibles, a dedicated advertising billboard, and a community-focused platform for NFT enthusiasts.",
+    tags: [
+      {
+        name: "nuxt.js",
+        color: "gray-text-gradient",
+      },
+      {
+        name: "node.js",
+        color: "gray-text-gradient",
+      },
+      {
+        name: "aws s3",
+        color: "gray-text-gradient",
+      },
+      {
+        name: "ethereum",
+        color: "gray-text-gradient",
+      },
+      {
+        name: "anchor",
+        color: "gray-text-gradient",
+      },
+    ],
+    image: project_7,
+    source_code_link: "https://github.com/SaketKothari/postman-clone",
+    live_code_link: "https://github.com/SaketKothari/postman-clone",
+  },
+  {
+    name: "CryptX",
+    description:
+      "CryptX is an open-source programmable blockchain app platform that is compatible with the tokenization framework TokenScript. The platform offers businesses and their users in-depth token interaction, a clean white label user experience, and advanced security options. It supports all Ethereum-based networks.",
+    tags: [
+      {
+        name: "swift",
+        color: "gray-text-gradient",
+      },
+      {
+        name: "ethereum",
+        color: "gray-text-gradient",
+      },
+    ],
+    image: project_10,
+    source_code_link: "https://github.com/SaketKothari/postman-clone",
+    live_code_link: "https://github.com/SaketKothari/postman-clone",
+  },
+  {
+    name: "Mobile Crypto Exchange",
+    description:
+      "We developed a trading dashboard, integrated our solution with an external trading system and a system with a matching engine, and enabled trading with leverage",
+    tags: [
+      {
+        name: "react native",
+        color: "gray-text-gradient",
+      },
+      {
+        name: "redux",
+        color: "gray-text-gradient",
+      },
+      {
+        name: "ethereum",
+        color: "gray-text-gradient",
+      },
+      {
+        name: "solana",
+        color: "gray-text-gradient",
+      },
+      {
+        name: "base",
+        color: "gray-text-gradient",
+      },
+    ],
+    image: project_11,
     source_code_link: "https://github.com/SaketKothari/postman-clone",
     live_code_link: "https://github.com/SaketKothari/postman-clone",
   },

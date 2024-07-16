@@ -37,6 +37,9 @@ import project_3 from "./project_3.jpg";
 import project_4 from "./project_4.png";
 import project_5 from "./project_5.png";
 import project_6 from "./project_6.jpg";
+import project_7 from "./project_7.jpg";
+import project_10 from "./project_10.jpg";
+import project_11 from "./project_11.jpg";
 import datavisualization from "./tech/datavisualization.png";
 
 export {
@@ -77,4 +80,7 @@ export {
   project_4,
   project_5,
   project_6,
+  project_7,
+  project_10,
+  project_11,
 };
