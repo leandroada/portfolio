@@ -28,6 +28,9 @@ import {
   project_7,
   project_10,
   project_11,
+  project_12,
+  project_13,
+  project_14,
 } from "../assets";
 
 export const navLinks = [
@@ -391,6 +394,59 @@ const projects = [
       },
     ],
     image: project_11,
+    source_code_link: "https://github.com/SaketKothari/postman-clone",
+    live_code_link: "https://github.com/SaketKothari/postman-clone",
+  },
+  {
+    name: "3D Car Racing Game",
+    description: "I have developed 3D Car Rasing Game by using Unity. ",
+    tags: [
+      {
+        name: "unity",
+        color: "gray-text-gradient",
+      },
+    ],
+    image: project_12,
+    source_code_link: "https://github.com/SaketKothari/postman-clone",
+    live_code_link: "https://github.com/SaketKothari/postman-clone",
+  },
+  {
+    name: "3D Fighting game",
+    description:
+      "I have developed 3D Fighting Game by using Unity. This is a multi-player game.",
+    tags: [
+      {
+        name: "unity",
+        color: "gray-text-gradient",
+      },
+    ],
+    image: project_13,
+    source_code_link: "https://github.com/SaketKothari/postman-clone",
+    live_code_link: "https://github.com/SaketKothari/postman-clone",
+  },
+  {
+    name: "3D NFT Card War",
+    description:
+      "I have developed 3D NFT Card War game leveraging Unity, Web3, Blockchain knowledge. I have developed smart contract by using Solidity.",
+    tags: [
+      {
+        name: "Unity",
+        color: "gray-text-gradient",
+      },
+      {
+        name: "web3",
+        color: "gray-text-gradient",
+      },
+      {
+        name: "solidity",
+        color: "gray-text-gradient",
+      },
+      {
+        name: "nft",
+        color: "gray-text-gradient",
+      },
+    ],
+    image: project_14,
     source_code_link: "https://github.com/SaketKothari/postman-clone",
     live_code_link: "https://github.com/SaketKothari/postman-clone",
   },

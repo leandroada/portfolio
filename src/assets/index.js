@@ -40,6 +40,9 @@ import project_6 from "./project_6.jpg";
 import project_7 from "./project_7.jpg";
 import project_10 from "./project_10.jpg";
 import project_11 from "./project_11.jpg";
+import project_12 from "./project_12.jpg";
+import project_13 from "./project_13.jpg";
+import project_14 from "./project_14.jpg";
 import datavisualization from "./tech/datavisualization.png";
 
 export {
@@ -83,4 +86,7 @@ export {
   project_7,
   project_10,
   project_11,
+  project_12,
+  project_13,
+  project_14,
 };
